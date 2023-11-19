@@ -1,5 +1,5 @@
 {
-  "name": "@greenfinity/spice",
+  "name": "@greenfinity/rescript-spice-utils",
   "$schema": "https://raw.githubusercontent.com/rescript-lang/rescript-compiler/master/docs/docson/build-schema.json",
   "sources": [
     {

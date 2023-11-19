@@ -459,9 +459,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@greenfinity/spice@workspace:.":
+"@greenfinity/rescript-spice-utils@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@greenfinity/spice@workspace:."
+  resolution: "@greenfinity/rescript-spice-utils@workspace:."
   dependencies:
     "@glennsl/rescript-jest": ^0.10.0
     "@greenlabs/ppx-spice": 0.1.10
