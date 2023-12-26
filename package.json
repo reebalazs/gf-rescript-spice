@@ -1,7 +1,7 @@
 {
   "name": "@greenfinity/rescript-spice-utils",
   "description": "GF Rescript Spice utilities and codecs",
-  "version": "0.1.1-0",
+  "version": "0.2.0",
   "license": "MIT",
   "homepage": "https://github.com/reebalazs/gf-rescript-spice",
   "repository": {
@@ -106,6 +106,5 @@
     "rescript-logger@3.1.0": {
       "unplugged": true
     }
-  },
-  "stableVersion": "0.1.0"
+  }
 }
